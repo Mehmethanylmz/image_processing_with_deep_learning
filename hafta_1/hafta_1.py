@@ -1,4 +1,4 @@
-# Open Ýmage
+# Open image
 import cv2
 
 img = cv2.imread("input_images/messi5.jpg",0)
