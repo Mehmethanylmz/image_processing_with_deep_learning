@@ -20,8 +20,9 @@ This project contains examples and code snippets demonstrating various image pro
 
 <p align="center">
   <img src="image_processing_with_opencv/blending/output_images/blending_output_image.png" alt="Blending Output İmage" width="20%" />
-  <img src="image_processing_with_opencv/image_thresholding/output_images/image_thresholding_output2.png" alt="Shi-Tomasi Corner Detection" width="20%" />
-  <img src="image_processing_with_opencv\warp_perspective\input_images\kart.png" alt="Shi-Tomasi Corner Detection" width="20%" />
+  <img src="image_processing_with_opencv\gradients\output_images\output_gradients_image.png" alt="Output Gradient İmage" width="20%" />
+  <img src="image_processing_with_opencv/image_thresholding/output_images/image_thresholding_output2.png" alt="Blending Output İmage" width="20%" />
+  <img src="image_processing_with_opencv\warp_perspective\input_images\kart.png" alt="kart" width="20%" />
   <img src="image_processing_with_opencv\warp_perspective\output_images\Nihai_Resim.png" alt="Nihai Resim" width="20%" />
 </p>
 
@@ -40,3 +41,11 @@ This section covers various object detection and tracking techniques using OpenC
 9. **Pedestrian Detection**: Pedestrian detection using HOG and SVM methods.
 10. **Template Matching**: Template matching techniques in images.
 11. **Watershed**: Image segmentation using the Watershed algorithm.
+
+<p align="center">
+  <img src="object_detection_with_opencv\cat_face_detection\output_images\cat_img2.jpg" alt="Cat Face Detection" width="20%" />
+  <img src="object_detection_with_opencv\face_detection\output_images\Einstein.png" alt="Einstein Face Detection" width="20%" />
+  <img src="object_detection_with_opencv\face_detection\output_images\barcelona.png" alt="Barcelona Face Detection" width="20%" />
+  <img src="object_detection_with_opencv\feature_maching\output_images\Figure2024-08-25 210036.png" alt="Feature Maching" width="20%" />
+  <img src="object_detection_with_opencv\pedestrian_detection\output_images\img2.jpg" alt="Pedestrian Detection" width="20%" />
+</p>
