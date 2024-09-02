@@ -8,7 +8,7 @@ Created on Fri Aug 30 12:35:23 2024
 import cv2
 import matplotlib.pyplot as plt
 
-img = cv2.imread("img1.jpg")
+img = cv2.imread("input_images/img1.jpg")
 img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 plt.figure()

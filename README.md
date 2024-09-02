@@ -20,6 +20,13 @@ This project contains examples and code snippets demonstrating various image pro
 
 ![Example output images](image_processing_with_opencv/blending/output_images/blending_output_image.png)
 
+<p align="center">
+  <img src="image_processing_with_opencv/blending/output_images/blending_output_image.png" alt="Blending Output İmage" width="45%" />
+  <img src="image_processing_with_opencv/image_thresholding/output_images/image_thresholding_output2.png" alt="Shi-Tomasi Corner Detection" width="45%" />
+  <img src="image_processing_with_opencv\warp_perspective\input_images\kart.png" alt="Shi-Tomasi Corner Detection" width="45%" />
+  <img src="image_processing_with_opencv\warp_perspective\output_images\Nihai_Resim.png" alt="Nihai Resim" width="45%" />
+</p>
+
 ## Object Detection with OpenCV
 
 This section covers various object detection and tracking techniques using OpenCV.

@@ -21,7 +21,8 @@ matrix = cv2.getPerspectiveTransform(pts1, pts2)
 print(matrix)
 
 imgOutput = cv2.warpPerspective(img, matrix, (width,height))
-cv2.imshow("Nihai Resim", imgOutput)
+cv2.imwrite("output_images/Nihai Resim.png", imgOutput)
+cv2.imshow("Nihai_Resim", imgOutput)
 
 
 cv2.waitKey(0)
