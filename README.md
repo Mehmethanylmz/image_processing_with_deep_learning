@@ -18,8 +18,6 @@ This project contains examples and code snippets demonstrating various image pro
 12. **Video Play**: Playing video files.
 13. **Warp Perspective**: Techniques for changing and correcting image perspective.
 
-![Example output images](image_processing_with_opencv/blending/output_images/blending_output_image.png)
-
 <p align="center">
   <img src="image_processing_with_opencv/blending/output_images/blending_output_image.png" alt="Blending Output İmage" width="20%" />
   <img src="image_processing_with_opencv/image_thresholding/output_images/image_thresholding_output2.png" alt="Shi-Tomasi Corner Detection" width="20%" />
