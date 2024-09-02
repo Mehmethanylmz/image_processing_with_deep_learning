@@ -17,6 +17,7 @@ This project contains examples and code snippets demonstrating various image pro
 11. **Video Camera**: Capturing and processing live camera feed.
 12. **Video Play**: Playing video files.
 13. **Warp Perspective**: Techniques for changing and correcting image perspective.
+![Example output images](image_processing_with_opencv/blending/output_images/blending_output_image.png)
 
 ## Object Detection with OpenCV
 
