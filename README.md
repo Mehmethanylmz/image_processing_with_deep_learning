@@ -5,7 +5,7 @@ This project contains examples and code snippets demonstrating various image pro
 ## Image Processing with OpenCV
 
 1. **Blending**: Techniques for blending two or more images together.
-2. **Blurring**: Image blurring techniques (Gaussian, Median, Bilateral, etc.).
+2. **Blurring**: Image blurring techniques (Gaussian, Median)
 3. **Gradients**: Techniques for detecting edges and corners in images using gradients.
 4. **Histogram**: Image histogram analysis and equalization methods.
 5. **Image Thresholding**: Image thresholding techniques (Binary, Adaptive Thresholding).
@@ -22,8 +22,8 @@ This project contains examples and code snippets demonstrating various image pro
   <img src="image_processing_with_opencv/blending/output_images/blending_output_image.png" alt="Blending Output İmage" width="20%" />
   <img src="image_processing_with_opencv\gradients\output_images\output_gradients_image.png" alt="Output Gradient İmage" width="15%" />
   <img src="image_processing_with_opencv/image_thresholding/output_images/image_thresholding_output2.png" alt="Blending Output İmage" width="20%" />
-  <img src="image_processing_with_opencv\warp_perspective\input_images\kart.png" alt="kart" width="20%" />
-  <img src="image_processing_with_opencv\warp_perspective\output_images\Nihai_Resim.png" alt="Nihai Resim" width="20%" />
+  <img src="image_processing_with_opencv\warp_perspective\input_images\kart.png" alt="kart" width="15%" />
+  <img src="image_processing_with_opencv\warp_perspective\output_images\Nihai_Resim.png" alt="Nihai Resim" width="15%" />
 </p>
 
 ## Object Detection with OpenCV
@@ -32,11 +32,11 @@ This section covers various object detection and tracking techniques using OpenC
 
 1. **Cat Face Detection**: Detecting cat faces using Haar cascades.
 2. **Contour Detection**: Detecting contours of objects in images.
-3. **Corner Detection**: Corner detection techniques (Harris, Shi-Tomasi).
+3. **Corner Detection**: Corner detection techniques .
 4. **Detection and Tracking**: Basic techniques for object detection and tracking.
-5. **Edge Detection**: Edge detection methods (Sobel, Canny).
-6. **Face Detection**: Detecting human faces using Haar cascades and DNN.
-7. **Feature Matching**: Feature matching between images (ORB, SIFT, SURF).
+5. **Edge Detection**: Edge detection methods (Canny).
+6. **Face Detection**: Detecting human faces using Haar cascades.
+7. **Feature Matching**: Feature matching between images (ORB, SIFT).
 8. **Own Cascade Detection**: Creating custom Haar cascades with your own training set.
 9. **Pedestrian Detection**: Pedestrian detection using HOG and SVM methods.
 10. **Template Matching**: Template matching techniques in images.
